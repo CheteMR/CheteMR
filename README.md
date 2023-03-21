@@ -10,4 +10,5 @@
 
 [![eclipse](https://img.shields.io/badge/eclipse-FAF607?style=for-the-badge&logo=eclipse&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-FAF607?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![XAMPP](https://img.shields.io/badge/XAMPP-FAF607?style=for-the-badge&logo=XAMPP&logoColor=white&labelColor=101010)]()
 
