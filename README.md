@@ -1,5 +1,5 @@
-# Hola, en primer lugar, encantado de conocerte por GitHub 😄. Me llamo Nacho Martín 👋
-### Desde siempre he sido una enamorado del mundo de la programación y por fin he dado el pasito. Estudiante de FP de DAW. 
+# Hola, encantado de conocerte por GitHub 😄. Me llamo Nacho Martín 👋
+### Estudiante de FP de DAW. Comenzando en el mundo del desarrollo con ilusión 
 
 
 <!--
