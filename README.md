@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hola, en primer lugar, encantado de conocerte por GitHub 😄. Me llamo Nacho Martín 👋
+### Desde siempre he sido una enamorado del mundo de la programación y por fin he dado el pasito. Estudiante de FP de DAW. 
+
 
 <!--
 **CheteMR/CheteMR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
