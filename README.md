@@ -7,6 +7,7 @@
 [![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
 [![JUnit5](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=junit5&logoColor=white&labelColor=101010)]()
 [![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=101010)]()
 
 *Software utilizado*
 
