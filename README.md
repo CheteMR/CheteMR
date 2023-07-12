@@ -15,3 +15,4 @@
 [![MySQL](https://img.shields.io/badge/MySQL-FAF607?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![XAMPP](https://img.shields.io/badge/XAMPP-FAF607?style=for-the-badge&logo=XAMPP&logoColor=white&labelColor=101010)]()
 [![VisualStudioCode](https://img.shields.io/badge/VisualStudioCode-FAF607?style=for-the-badge&logo=VisualStudioCode&logoColor=white&labelColor=101010)]()
+[![Intellij IDEA](https://img.shields.io/badge/IntellijIDEA-FAF607?style=for-the-badge&logo=IntellijIDEA&logoColor=white&labelColor=101010)]()
