@@ -2,7 +2,7 @@
 ### Estudiante de FP de DAW. Comenzando en el mundo del desarrollo con ilusión 
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Bienvenidos+a+mi+página+ de+Github;Digital+Operations+&+SEM+Manager;Aprendiendo+Tableau;FP+DAM;Aprendiendo+a+manejar+la+IA;Game+Lover;BBDD+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+Bienvenidos+a+mi+página+de+Github;Digital+Operations+&+SEM+Manager;Aprendiendo+Tableau;FP+DAM;Aprendiendo+a+manejar+la+IA;Game+Lover;BBDD+Lover+%3C3"></a>
 </p>
 
 
